@@ -14,7 +14,7 @@ The core philosophy is simple:
 ### 🔍 Monitoring & Observability
 - Zabbix consulting and implementation
 - Large-scale environments (thousands of hosts, tags, templates)
-- Migrations (Nagios / legacy → Zabbix)
+- Migrations (Nagios, PRTG / legacy → Zabbix)
 - SNMP, custom checks, APIs, and integrations
 - Dashboarding and alerting strategies
 
@@ -35,7 +35,7 @@ The core philosophy is simple:
 
 These tools are developed out of real operational needs and used in production.
 
-### **ZbxWizz**
+### [**ZbxWizz**](https://github.com/logimaxx/zbxwizz)
 A spreadsheet-like interface for working with the Zabbix API:
 - Bulk host and tag management
 - Import / export via CSV or Excel
